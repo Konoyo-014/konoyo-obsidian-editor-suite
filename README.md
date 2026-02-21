@@ -7,6 +7,16 @@ This repository currently contains two plugins:
 - `plugins/latex-paren-math`: one-click delimiter conversion (`\\( \\)` and `\\[ \\]` to `$` and `$$`)
 - `plugins/live-preview-bold-fix`: Live Preview decoration fixes for bold boundaries and paren/bracket math preview
 
+Official release repositories:
+
+- https://github.com/Konoyo-014/obsidian-latex-paren-math
+- https://github.com/Konoyo-014/obsidian-live-preview-bold-fix
+
+Community Plugins submission PRs:
+
+- https://github.com/obsidianmd/obsidian-releases/pull/10411
+- https://github.com/obsidianmd/obsidian-releases/pull/10412
+
 ## Repository Layout
 
 ```text
